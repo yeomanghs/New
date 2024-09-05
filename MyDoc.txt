@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is my text!!!
+=======
+This is my text
+
+A new feature
+>>>>>>> newBranch
